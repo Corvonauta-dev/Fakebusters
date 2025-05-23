@@ -16,7 +16,7 @@ Veja abaixo como o **Fakebusters** funciona na prática:
 
 ### 🔗 Entrada via URL
 
-![url](https://github.com/user-attachments/assets/bad2cfde-3b4b-415d-b510-872a561c8bc9)
+![Captura de tela 2025-05-17 231703](https://github.com/user-attachments/assets/77851493-7af5-4fd5-8b3c-3805998de86f)
 
 *O usuário informa a URL da notícia. O sistema extrai automaticamente o texto e inicia a checagem.*
 
@@ -24,7 +24,7 @@ Veja abaixo como o **Fakebusters** funciona na prática:
 
 ### 🖼️ Entrada via Imagem
 
-![Imagem](https://github.com/user-attachments/assets/4c945eb4-71f3-4701-b4be-5da71bd858fa)
+![Captura de tela 2025-05-17 231748](https://github.com/user-attachments/assets/522bfb06-9c3f-4596-b525-7115dbf8e3a1)
 
 *Também é possível enviar uma imagem contendo o texto da notícia. O sistema aplica OCR para extrair as informações.*
 
@@ -32,7 +32,7 @@ Veja abaixo como o **Fakebusters** funciona na prática:
 
 ### ✅ Relatório Gerado
 
-![Relatorio](https://github.com/user-attachments/assets/b56d7929-6e3a-420a-b91a-129f55d22337)
+![Captura de tela 2025-05-23 161326](https://github.com/user-attachments/assets/7f3b33d7-9496-4fd5-8762-96c37960f2dd)
 
 *Após a análise, é gerado um relatório estruturado com evidências, avaliação de credibilidade e vereditos por claim.*
 
@@ -40,7 +40,7 @@ Veja abaixo como o **Fakebusters** funciona na prática:
 
 ### 🖋️ Post para Instagram
 
-![Texto insta](https://github.com/user-attachments/assets/00297b26-ac08-4b18-b110-23955a0f9a05)
+![Captura de tela 2025-05-23 161407](https://github.com/user-attachments/assets/17e0d655-83e1-44b6-8b03-ff6e8382f528)
 
 *O sistema gera automaticamente uma legenda clara e atrativa, pronta para ser postada no Instagram.*
 
@@ -48,7 +48,7 @@ Veja abaixo como o **Fakebusters** funciona na prática:
 
 ### 🧾 Imagem com carimbo de veredito
 
-![saida imagem](https://github.com/user-attachments/assets/6177c4b9-d465-4d4f-89c5-d3efecd01d78)
+![baixados](https://github.com/user-attachments/assets/62507900-c82a-48b0-973e-93e0624e9f3b)
 
 *Se a notícia for identificada como falsa, a imagem recebe automaticamente o carimbo vermelho de **FAKE**.*
 
@@ -67,4 +67,4 @@ Vamos juntos criar uma comunidade mais informada e consciente. Contribuições, 
 
 ---
 
-Pronto para combater as notícias falsas com os **Fakebusters**? **Clone**, **contribua** e faça a diferença! 🚫📰✨
+Pronto para combater as notícias falsas com **Fakebusters**? **Clone**, **contribua** e faça a diferença! 🚫📰✨
